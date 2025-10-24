@@ -72,10 +72,28 @@ Higher profit margins
 **Learnings**
 Through this project, I learned:
 End-to-end Excel dashboard creation  
-KPI design for operational analysis  
+KPI design for operational analysis                         
 How discounts and logistics influence return behavior  
 Data storytelling using visual insights  
 
-📧 Optional: Add email or LinkedIn link
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
